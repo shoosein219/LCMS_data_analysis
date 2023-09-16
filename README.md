@@ -1,4 +1,4 @@
-# LCMS_data_analysis
+# LCMS (Protein)_data_analysis
 Analysis from data output from liquid chromotography mass spectrometry run
 
 [data](https://www.ebi.ac.uk/pride/archive/projects/PXD040825)
