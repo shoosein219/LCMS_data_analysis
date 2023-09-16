@@ -8,8 +8,13 @@ Understanding how dissimilatory sulfate reduction from diverse sulfate-reducing 
 
 # Pipeline used for data analysis
 (1) Raw data pre-processing: https://github.com/MannLabs/alphapept
+
 (2) Peak picking and assignment: https://openms.de/
+
 (3) Database search: UniProt
+
 (4) Quantification: sprectral counting and peptide intensity
+
 (5) Data Analysis: limma
+
 (6) Visualization: MSnbase
