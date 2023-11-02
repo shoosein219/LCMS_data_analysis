@@ -1,5 +1,5 @@
-# LCMS (Protein)_data_analysis
-Analysis from data output from liquid chromotography mass spectrometry run
+# LCMS_data_analysis_examples
+1. Metaproteomics Analysis from data output from liquid chromotography mass spectrometry run quantifying proteins involved with ZVS production in sulfate-reducing microorganisms using the ZVS pathway vs sulfate reduction pathway.
 
 [data](https://www.ebi.ac.uk/pride/archive/projects/PXD040825)
 Data aquired from PRoteomics IDEntifications Database from publication submission DOI: 10.1073/PNAS.2220725120
@@ -20,3 +20,16 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7602939/
 (5) Data Analysis: limma
 
 (6) Visualization: MSnbase
+
+
+2. Non-targeted metabolic data analysis using data from synthetic bacteria communities on plant leaves
+
+non-targeted metabolic data analysis using data from synthetic bacteria communities on plant leaves
+
+[data](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=603ea096517b4d5897ead98b070fc7f0)
+
+Using the NP3 MS workflow:
+https://github.com/danielatrivella/NP3_MS_Workflow
+
+
+Using the NP3 MS workflow: https://github.com/danielatrivella/NP3_MS_Workflow
